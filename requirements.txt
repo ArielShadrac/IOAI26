@@ -1,4 +1,4 @@
-# requirements.txt — Environnement ML/DL CITASC26 
+# requirements.txt Environnement ML/DL CITASC26 
 # Compatible Python 3.10 / 3.11
 # Installation : pip install -r requirements.txt
 
